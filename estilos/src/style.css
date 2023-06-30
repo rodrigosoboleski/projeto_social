@@ -11,7 +11,7 @@
 html, body{
     height: 100vh;
     width: 100vw;
-    background-color: rgb(24, 56, 82);
+    background-color: rgb(20, 5, 26);
 }
 body{
     background: url('../imagens/DBD_CH_24_Garden_Of_Joy_House_Truck_1920x1080_afc4470f70.jpg') no-repeat top center;
@@ -49,8 +49,8 @@ iframe#tela{
 }
 
 section#redes-sociais img{
-    width: 40px;
-    margin: 10px;
+    width: 45px;
+    margin: 8px;
     border-radius: 50%;
     box-shadow: -2px 2px 5px rgba(0, 0, 0, 0.671);
     box-sizing: border-box;
