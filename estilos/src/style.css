@@ -7,10 +7,10 @@
 html, body{
     height: 100vh;
     width: 100vw;
-    background-color: rgb(252, 0, 42);
+    background-color: rgb(24, 13, 27);
 }
 body{
-    background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
+    background: url('../imagens/DBD_CH_24_Garden_Of_Joy_House_Truck_1920x1080_afc4470f70.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -21,7 +21,7 @@ main{
     width: 100vw;
 }
 
-#telefone{
+section#telefone{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -29,23 +29,21 @@ main{
 
     height: 615px;
     width: 311px;
-    background-color: rgb(134, 241, 63);
     background: url('../imagens/frame-iphone.png') no-repeat; 
 }
 iframe{
     border: none;
     border-radius: 5px;
+    background-color: black;
 }
 iframe#tela{
     position: relative;
-    top: 80px;
-    left: 22px;
-    height: 472px;
+    top: 79px;
+    left: 21px;
+    height: 474px;
     width: 269px;
 }
-section#redes-sociais{
-   
-}
+
 section#redes-sociais img{
     width: 50px;
     margin: 10px;
