@@ -11,7 +11,7 @@
 html, body{
     height: 100vh;
     width: 100vw;
-    background-color: rgb(24, 13, 27);
+    background-color: rgb(24, 56, 82);
 }
 body{
     background: url('../imagens/DBD_CH_24_Garden_Of_Joy_House_Truck_1920x1080_afc4470f70.jpg') no-repeat top center;
@@ -31,7 +31,7 @@ section#telefone{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 619px;
+    height: 625px;
     width: 311px;
     background: url('../imagens/frame-iphone.png') no-repeat; 
 }
